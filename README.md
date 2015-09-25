@@ -10,6 +10,7 @@ The project work is to get the data from https://d396qusza40orc.cloudfront.net/g
   * Uses descriptive activity names to name the activities in the data set
   * Appropriately labels the data set with descriptive variable names. 
   * From the data set in previous step , creates a second, independent tidy data set with the average of each variable for each activity and each subject.
-* 
-
+* CodeBook.md :  Code book that describes the variables, the data, and transformations that are performed to clean up the data
+* tidyData.txt : Independent tidy data set with the average of each variable for each activity and each subject
+* README.md : This markdown
  
